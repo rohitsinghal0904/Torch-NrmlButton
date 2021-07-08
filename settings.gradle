@@ -1,0 +1,2 @@
+rootProject.name = "Torch-NrmlButton"
+include ':app'
